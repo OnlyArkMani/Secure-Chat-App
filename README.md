@@ -1,21 +1,21 @@
-🔐 Secure Chat App
+Secure Chat App
 
 A secure, real-time chatting application designed with privacy, simplicity, and future extensibility in mind.
 The app currently supports basic one-to-one messaging and is being built with a roadmap toward offline Bluetooth-based communication and advanced secure messaging features.
 
-🚀 Features (Current)
+Features (Current)
 
-💬 Real-time Chatting
+Real-time Chatting
 
-👤 User-to-User Messaging
+User-to-User Messaging
 
-🔐 Focus on Secure Communication
+Focus on Secure Communication
 
-🧩 Scalable Architecture for future security enhancements
+Scalable Architecture for future security enhancements
 
-⚡ Lightweight & Fast UI
+Lightweight & Fast UI
 
-🛠️ Tech Stack
+Tech Stack
 
 Frontend: (Specify if React / Android / Web, etc.)
 
@@ -27,9 +27,9 @@ Authentication: (Planned / Implemented)
 
 Security Focus: Encrypted messaging (planned)
 
-ℹ️ Tech stack can be updated as the project evolves.
+Tech stack can be updated as the project evolves.
 
-🧠 Project Vision
+Project Vision
 
 The goal of Secure Chat App is not just messaging — but privacy-first communication.
 
@@ -43,34 +43,25 @@ Encryption & authentication mechanisms
 
 Peer-to-peer networking
 
-🔮 Future Scope & Planned Features
+Future Scope & Planned Features
 
-📡 Bluetooth-Based Offline Chatting
+Bluetooth-Based Offline Chatting
 
-🔐 End-to-End Encryption (E2EE)
+End-to-End Encryption (E2EE)
 
-📱 Peer-to-Peer Messaging
+Peer-to-Peer Messaging
 
-🛡️ Message Self-Destruct / Expiry
+Message Self-Destruct / Expiry
 
-🔑 Advanced Authentication
+Advanced Authentication
 
-🌐 Cross-platform Support
+Cross-platform Support
 
-🧪 Research into Secure Communication Protocols
-
-📂 Project Structure
-SecureChat/
-├── src/
-├── public/
-├── backend/
-├── README.md
-└── ...
-
+Research into Secure Communication Protocols
 
 (Structure may vary as features are added)
 
-🧪 How to Run (Basic)
+How to Run (Basic)
 git clone https://github.com/OnlyArkMani/Secure-Chat-App.git
 cd Secure-Chat-App
 # install dependencies
@@ -79,23 +70,23 @@ cd Secure-Chat-App
 
 Detailed setup instructions will be added as the project matures.
 
-🤝 Contribution
+Contribution
 
 Contributions, suggestions, and feature ideas are welcome.
 This project is actively evolving with a strong focus on secure communication research.
 
-📜 License
+License
 
 This project is for educational and research purposes.
 License details can be added later.
 
-👤 Author
+Author
 
 Ark Mani
 B.Tech CSE | Secure Systems & Software Development Enthusiast
 
 🔗 GitHub: OnlyArkMani
 
-⭐ If you like this project, give it a star!
+ If you like this project, give it a star!
 
 
